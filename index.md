@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Qifan Pu
+title: CS294 Reviews
 ---
 # About
